@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "hello world $adsadssasfdsfsfdsfsfdsfdsdfdsdfdsfsfdfsfdsfdsffsdfs
+echo "hello world: :)"
